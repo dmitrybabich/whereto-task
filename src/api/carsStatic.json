@@ -1,0 +1,100 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "tags": [
+        "Free"
+      ],
+      "title": "Brand New Never Used Mercedez Benz",
+      "image": "https://cdn2.mecum.com/auctions/fl0118/fl0118-322026/images/1-1511805111037.jpg?1515887875000",
+      "soldBy": {
+        "name": "James Raj"
+      },
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "tags": [
+        "Cool"
+      ],
+      "title": "Brand New Never Used Tesla Model X",
+      "image": "https://boygeniusreport.files.wordpress.com/2017/12/tesla-model-x-black.jpg?quality=98&strip=all&w=1200",
+      "soldBy": {
+        "name": "David Xu"
+      },
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "tags": [
+        "Fun"
+      ],
+      "title": "Brand New Never Used Audi A4",
+      "image": "https://www.autocareplus.com/wp-content/uploads/2016/08/2012-Audi-A4.jpg",
+      "soldBy": {
+        "name": "Josh Rothstein"
+      },
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "tags": [
+        "Sexy"
+      ],
+      "title": "Brand New Never Used Telsa Model 3",
+      "image": "https://www.tesla.com/sites/default/files/images/model-3/model-3-social.jpg",
+      "soldBy": {
+        "name": "Wilbur Han"
+      },
+      "rating": 3
+    },
+    {
+      "id": 5,
+      "tags": [
+        "Free"
+      ],
+      "title": "Brand New Never Used Mercedez Benz",
+      "image": "https://cdn2.mecum.com/auctions/fl0118/fl0118-322026/images/1-1511805111037.jpg?1515887875000",
+      "soldBy": {
+        "name": "James Raj"
+      },
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "tags": [
+        "Cool"
+      ],
+      "title": "Brand New Never Used Tesla Model X",
+      "image": "https://boygeniusreport.files.wordpress.com/2017/12/tesla-model-x-black.jpg?quality=98&strip=all&w=1200",
+      "soldBy": {
+        "name": "David Xu"
+      },
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "tags": [
+        "Fun"
+      ],
+      "title": "Brand New Never Used Audi A4",
+      "image": "https://www.autocareplus.com/wp-content/uploads/2016/08/2012-Audi-A4.jpg",
+      "soldBy": {
+        "name": "Josh Rothstein"
+      },
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "tags": [
+        "Sexy"
+      ],
+      "title": "Brand New Never Used Telsa Model 3",
+      "image": "https://www.tesla.com/sites/default/files/images/model-3/model-3-social.jpg",
+      "soldBy": {
+        "name": "Wilbur Han"
+      },
+      "rating": 3
+    }
+  ]
+}
